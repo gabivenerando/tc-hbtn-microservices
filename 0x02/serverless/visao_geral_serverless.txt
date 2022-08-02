@@ -1,0 +1,38 @@
+O que é Arquitetura Serverless
+
+A arquitetura serverless (arquitetura sem servidor) é uma estrutura de aplicativos que hospeda serviços do tipo “Backend-as-a-Service” (BaaS). É dotada de padrões arquitetônicos de ponta para atingir o nível mínimo possível de hardware ocioso. Esse serviço possui a capacidade de implementar software sem ter qualquer envolvimento com a sua infraestrutura, automatizando todo o processo de criação, implementação e início de serviços sob demanda. Os usuários só precisariam registrar as funções empresariais requeridas e suas necessidades de recursos.
+
+O que é Function as a service (FaaS) ?
+
+Function as a Service (FaaS) é um serviço de computação em nuvem que busca abstrair a questão de servidor e máquinas onde rodam os seus programas. Permite o desenvolvimento, execução e gerenciamento de aplicações.
+
+Quais são os benefícios de usar arquitetura Serverless ?
+
+- Modelo flexível que é cobrado apenas quando é utilizado;
+- Podem gerenciar seu uso e sua disponibilidade para os usuários;
+- As aplicações serverless atendem à demanda e aumentam ou diminuem a escala automaticamente de acordo com as necessidades;
+- O provedor de nuvem é responsável pelas tarefas de provisionamento, manutenção e infraestrutura.
+
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+
+É a entrega de serviços de computação (servidores, armazenamento, bancos de dados, rede, software, análise e inteligência) através da Internet. 
+
+Benefícios: 
+
+- Oferecem recursos flexíveis,
+- Paga somente o que se usa;
+- Grande aliado na escalabilidade;
+- Aumento de produtividade.
+
+Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+
+Arquitetura Monolítica:
+
+Na arquitetura Monolítica o software é desenvolvido como única unidade, sendo unificada e dependente. Não possuem um banco de dados individual, podendo o sistema inteiro ser afetado quando ocorre um erro. Suas entregas são mais demoradas, já que é necessário esperar o desenvolvimento de todas as funcionalidades para subir no ambiente de produção.
+
+Arquitetura de *Microsserviços:*
+
+Enquanto isso, a arquitetura de microsserviço é dividida em partes, sendo independentes na sua lógica e em seu banco de dados. Cada unidade pode sofrer alterações e testes sem impactar no restante da aplicação.
+
+Serveless:
+A arquitetura serverless (arquitetura sem servidor) é uma estrutura de aplicativos que hospeda serviços do tipo “Backend-as-a-Service” (BaaS). É dotada de padrões arquitetônicos de ponta para atingir o nível mínimo possível de hardware ocioso. Esse serviço possui a capacidade de implementar software sem ter qualquer envolvimento com a sua infraestrutura, automatizando todo o processo de criação, implementação e início de serviços sob demanda. Os usuários só precisariam registrar as funções empresariais requeridas e suas necessidades de recursos.
